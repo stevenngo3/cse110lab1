@@ -10,6 +10,7 @@ Programming languages I have worked with:
   
 My favorite programming language is Java!
 ![Picture of Java](javapic.avif)
+[Link to Java image in my repo](javapic.avif)
 
 My favorite quote is: 
 > You only live once, but if you work it right, once is enough. - Joe E. Lewis
@@ -22,4 +23,7 @@ My top 3 favorite foods are:
 
 Speaking of chicken, I love eating at [Chick-fil-A](https://www.chick-fil-a.com/).
 
+## Week 1 Lab
 For the first week lab assignment, some commands I used were `git clone`, `git add`, `git commit`, and `git push`!
+
+[Here is the link to my README.md file for this lab.](README.md)
