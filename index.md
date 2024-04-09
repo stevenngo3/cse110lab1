@@ -1,6 +1,13 @@
 # Steven Ngo's User Page
 Hello, my name is Steven Ngo and I am a **third year computer science major**. If you want to know some of my interests, you can jump to the [food section](#about-food) where I talk about my favorite foods.
 
+My favorite quote is: 
+> You only live once, but if you work it right, once is enough. - Joe E. Lewis
+
+What I hope to accomplish during my life:
+- [X] Become a student at UCSD
+- [ ] Become a successful software engineer
+
 ## About Programming
 Programming languages I have worked with:
 * Java
@@ -10,10 +17,6 @@ Programming languages I have worked with:
   
 My favorite programming language is Java!
 ![Picture of Java](javapic.avif)
-[Link to Java image in my repo](javapic.avif)
-
-My favorite quote is: 
-> You only live once, but if you work it right, once is enough. - Joe E. Lewis
 
 ## About Food
 My top 3 favorite foods are:
