@@ -1,5 +1,5 @@
 # Steven Ngo's User Page
-Hello, my name is Steven Ngo and I am a **third year computer science major**.
+Hello, my name is Steven Ngo and I am a **third year computer science major**. If you want to know some of my interests, you can jump to the [food section](#about-food) where I talk about my favorite foods.
 
 ## About Programming
 Programming languages I have worked with:
