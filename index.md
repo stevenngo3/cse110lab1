@@ -25,6 +25,7 @@ My top 3 favorite foods are:
 3.  Spaghetti
 
 Speaking of chicken, I love eating at [Chick-fil-A](https://www.chick-fil-a.com/).
+![Picture of Chick-fil-A](chickfila.jpg)
 
 ## Week 1 Lab
 For the first week lab assignment, some commands I used were `git clone`, `git add`, `git commit`, and `git push`!
